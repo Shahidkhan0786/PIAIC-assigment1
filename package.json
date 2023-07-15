@@ -1,0 +1,13 @@
+{
+  "name": "aasigment1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc q1.ts",
+    "start": "node q1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
